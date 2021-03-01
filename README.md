@@ -1,2 +1,2 @@
-# Shannon-entrophy
-Shennon algorithim to calculate the enthrophy of a given text
+# Shannon Entrophy
+Shannon algorithm to calculate the enthrophy of a given text string.
